@@ -17,7 +17,7 @@ This project uses SQL to analyze sales, customer behavior, and delivery performa
 - Monthly sales trends
 - Delivery delays
 - Customer lifetime value
-
+ 
 ## 📊 Tools
 - SQL (MySQL)
 - Data from Kaggle
